@@ -44,3 +44,6 @@ class DefaultChildThemePlugin extends ThemePlugin {
 }
 
 ?>
+
+
+//because this breaklines the api fails in ojs3.1.1-4
